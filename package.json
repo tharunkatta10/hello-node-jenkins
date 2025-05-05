@@ -1,0 +1,16 @@
+{
+  "name": "hello-node-jenkins",
+  "version": "1.0.0",
+  "description": "Simple Hello World Node.js app for Jenkins CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Tharun Katta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
+
